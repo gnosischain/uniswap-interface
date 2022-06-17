@@ -1,4 +1,4 @@
-import { SupportedChainId } from '../constants/chains'
+import { SupportedChainId } from '../custom/constants/chains'
 
 const ETHERSCAN_PREFIXES: { [chainId: number]: string } = {
   [SupportedChainId.MAINNET]: 'https://etherscan.io',

@@ -26,7 +26,7 @@ import {
   V2_ROUTER_ADDRESS,
   V3_MIGRATOR_ADDRESSES,
 } from 'constants/addresses'
-import { WRAPPED_NATIVE_CURRENCY } from 'constants/tokens'
+import { WRAPPED_NATIVE_CURRENCY } from 'custom/constants/tokens'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useMemo } from 'react'
 import { NonfungiblePositionManager, Quoter, TickLens, UniswapInterfaceMulticall } from 'types/v3'

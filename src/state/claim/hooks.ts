@@ -7,7 +7,7 @@ import JSBI from 'jsbi'
 import { useSingleCallResult } from 'lib/hooks/multicall'
 import { useEffect, useState } from 'react'
 
-import { UNI } from '../../constants/tokens'
+import { UNI } from '../../custom/constants/tokens'
 import { useContract } from '../../hooks/useContract'
 import { isAddress } from '../../utils'
 import { calculateGasMargin } from '../../utils/calculateGasMargin'

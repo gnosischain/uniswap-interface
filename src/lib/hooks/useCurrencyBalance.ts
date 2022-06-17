@@ -7,7 +7,7 @@ import JSBI from 'jsbi'
 import { useMultipleContractSingleData, useSingleContractMultipleData } from 'lib/hooks/multicall'
 import { useMemo } from 'react'
 
-import { nativeOnChain } from '../../constants/tokens'
+import { nativeOnChain } from '../../custom/constants/tokens'
 import { useInterfaceMulticall } from '../../hooks/useContract'
 import { isAddress } from '../../utils'
 

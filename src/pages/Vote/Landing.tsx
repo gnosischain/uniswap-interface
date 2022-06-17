@@ -27,7 +27,7 @@ import { shortenAddress } from 'utils'
 import { ExplorerDataType, getExplorerLink } from 'utils/getExplorerLink'
 
 import { ZERO_ADDRESS } from '../../constants/misc'
-import { UNI } from '../../constants/tokens'
+import { UNI } from '../../custom/constants/tokens'
 import { ProposalStatus } from './styled'
 
 const PageWrapper = styled(AutoColumn)``

@@ -5,7 +5,7 @@ import useNativeCurrency from 'lib/hooks/useNativeCurrency'
 import tryParseCurrencyAmount from 'lib/utils/tryParseCurrencyAmount'
 import { useMemo } from 'react'
 
-import { WRAPPED_NATIVE_CURRENCY } from '../constants/tokens'
+import { WRAPPED_NATIVE_CURRENCY } from '../custom/constants/tokens'
 import { useTransactionAdder } from '../state/transactions/hooks'
 import { TransactionType } from '../state/transactions/types'
 import { useCurrencyBalance } from '../state/wallet/hooks'

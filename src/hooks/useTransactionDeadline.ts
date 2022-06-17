@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { L2_CHAIN_IDS } from 'constants/chains'
+import { L2_CHAIN_IDS } from 'custom/constants/chains'
 import { L2_DEADLINE_FROM_NOW } from 'constants/misc'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useMemo } from 'react'

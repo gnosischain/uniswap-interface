@@ -1,6 +1,6 @@
 import { Trans } from '@lingui/macro'
 import { Pair } from '@uniswap/v2-sdk'
-import { UNSUPPORTED_V2POOL_CHAIN_IDS } from 'constants/chains'
+import { UNSUPPORTED_V2POOL_CHAIN_IDS } from 'custom/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import JSBI from 'jsbi'
 import { useContext, useMemo } from 'react'

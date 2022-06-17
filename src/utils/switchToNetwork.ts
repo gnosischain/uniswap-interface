@@ -2,7 +2,7 @@ import { BigNumber } from '@ethersproject/bignumber'
 import { hexStripZeros } from '@ethersproject/bytes'
 import { ExternalProvider } from '@ethersproject/providers'
 import { CHAIN_INFO } from 'constants/chainInfo'
-import { SupportedChainId } from 'constants/chains'
+import { SupportedChainId } from 'custom/constants/chains'
 import { INFURA_NETWORK_URLS } from 'constants/infura'
 
 interface SwitchNetworkArguments {

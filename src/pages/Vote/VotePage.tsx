@@ -29,7 +29,7 @@ import {
   DEFAULT_AVERAGE_BLOCK_TIME_IN_SECS,
 } from '../../constants/governance'
 import { ZERO_ADDRESS } from '../../constants/misc'
-import { UNI } from '../../constants/tokens'
+import { UNI } from '../../custom/constants/tokens'
 import {
   useModalOpen,
   useToggleDelegateModal,

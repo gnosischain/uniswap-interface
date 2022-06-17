@@ -33,7 +33,7 @@ import { ArrowWrapper, SwapCallbackError, Wrapper } from '../../components/swap/
 import SwapHeader from '../../components/swap/SwapHeader'
 import { SwitchLocaleLink } from '../../components/SwitchLocaleLink'
 import TokenWarningModal from '../../components/TokenWarningModal'
-import { TOKEN_SHORTHANDS } from '../../constants/tokens'
+import { TOKEN_SHORTHANDS } from '../../custom/constants/tokens'
 import { useAllTokens, useCurrency } from '../../hooks/Tokens'
 import { ApprovalState, useApprovalOptimizedTrade, useApproveCallbackFromTrade } from '../../hooks/useApproveCallback'
 import useENSAddress from '../../hooks/useENSAddress'

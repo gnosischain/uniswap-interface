@@ -4,7 +4,7 @@ import LibUpdater from 'lib/hooks/transactions/updater'
 import { useCallback, useMemo } from 'react'
 import { useAppDispatch, useAppSelector } from 'state/hooks'
 
-import { L2_CHAIN_IDS } from '../../constants/chains'
+import { L2_CHAIN_IDS } from '../../custom/constants/chains'
 import { useAddPopup } from '../application/hooks'
 import { checkedTransaction, finalizeTransaction } from './reducer'
 

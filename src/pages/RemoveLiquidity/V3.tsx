@@ -33,7 +33,7 @@ import { useUserSlippageToleranceWithDefault } from 'state/user/hooks'
 import { ThemedText } from 'theme'
 
 import TransactionConfirmationModal, { ConfirmationModalContent } from '../../components/TransactionConfirmationModal'
-import { WRAPPED_NATIVE_CURRENCY } from '../../constants/tokens'
+import { WRAPPED_NATIVE_CURRENCY } from '../../custom/constants/tokens'
 import { TransactionType } from '../../state/transactions/types'
 import { calculateGasMargin } from '../../utils/calculateGasMargin'
 import { currencyId } from '../../utils/currencyId'

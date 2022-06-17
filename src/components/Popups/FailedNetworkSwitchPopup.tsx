@@ -1,6 +1,6 @@
 import { Trans } from '@lingui/macro'
 import { CHAIN_INFO } from 'constants/chainInfo'
-import { SupportedChainId } from 'constants/chains'
+import { SupportedChainId } from 'custom/constants/chains'
 import { useContext } from 'react'
 import { AlertCircle } from 'react-feather'
 import styled, { ThemeContext } from 'styled-components/macro'

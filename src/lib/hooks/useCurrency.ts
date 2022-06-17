@@ -7,7 +7,7 @@ import { NEVER_RELOAD, useSingleCallResult } from 'lib/hooks/multicall'
 import useNativeCurrency from 'lib/hooks/useNativeCurrency'
 import { useMemo } from 'react'
 
-import { TOKEN_SHORTHANDS } from '../../constants/tokens'
+import { TOKEN_SHORTHANDS } from '../../custom/constants/tokens'
 import { isAddress } from '../../utils'
 import { supportedChainId } from '../../utils/supportedChainId'
 

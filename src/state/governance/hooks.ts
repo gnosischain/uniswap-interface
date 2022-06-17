@@ -24,7 +24,7 @@ import { useSingleCallResult, useSingleContractMultipleData } from 'lib/hooks/mu
 import { useCallback, useMemo } from 'react'
 import { calculateGasMargin } from 'utils/calculateGasMargin'
 
-import { SupportedChainId } from '../../constants/chains'
+import { SupportedChainId } from '../../custom/constants/chains'
 import {
   BRAVO_START_BLOCK,
   MOONBEAN_START_BLOCK,
@@ -32,7 +32,7 @@ import {
   POLYGON_START_BLOCK,
   UNISWAP_GRANTS_START_BLOCK,
 } from '../../constants/proposals'
-import { UNI } from '../../constants/tokens'
+import { UNI } from '../../custom/constants/tokens'
 import { useLogs } from '../logs/hooks'
 import { useTransactionAdder } from '../transactions/hooks'
 import { TransactionType } from '../transactions/types'

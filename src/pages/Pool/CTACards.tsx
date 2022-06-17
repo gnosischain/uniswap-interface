@@ -1,7 +1,7 @@
 import { Trans } from '@lingui/macro'
 import { AutoColumn } from 'components/Column'
 import { CHAIN_INFO } from 'constants/chainInfo'
-import { SupportedChainId } from 'constants/chains'
+import { SupportedChainId } from 'custom/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import styled from 'styled-components/macro'
 import { ThemedText } from 'theme'
