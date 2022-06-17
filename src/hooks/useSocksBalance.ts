@@ -1,5 +1,5 @@
 import { Token } from '@uniswap/sdk-core'
-import { SOCKS_CONTROLLER_ADDRESSES } from 'constants/addresses'
+import { SOCKS_CONTROLLER_ADDRESSES } from 'custom/constants/addresses'
 import { SupportedChainId } from 'custom/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useMemo } from 'react'

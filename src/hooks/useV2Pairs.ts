@@ -5,7 +5,7 @@ import { computePairAddress, Pair } from '@uniswap/v2-sdk'
 import { useMultipleContractSingleData } from 'lib/hooks/multicall'
 import { useMemo } from 'react'
 
-import { V2_FACTORY_ADDRESSES } from '../constants/addresses'
+import { V2_FACTORY_ADDRESSES } from '../custom/constants/addresses'
 
 const PAIR_INTERFACE = new Interface(IUniswapV2PairABI)
 

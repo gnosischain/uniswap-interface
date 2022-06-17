@@ -14,7 +14,7 @@ import {
   GOVERNANCE_ALPHA_V0_ADDRESSES,
   GOVERNANCE_ALPHA_V1_ADDRESSES,
   GOVERNANCE_BRAVO_ADDRESSES,
-} from 'constants/addresses'
+} from 'custom/constants/addresses'
 import { LATEST_GOVERNOR_INDEX } from 'constants/governance'
 import { POLYGON_PROPOSAL_TITLE } from 'constants/proposals/polygon_proposal_title'
 import { UNISWAP_GRANTS_PROPOSAL_DESCRIPTION } from 'constants/proposals/uniswap_grants_proposal_description'

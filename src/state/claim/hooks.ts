@@ -1,7 +1,7 @@
 import { TransactionResponse } from '@ethersproject/providers'
 import { abi as MERKLE_DISTRIBUTOR_ABI } from '@uniswap/merkle-distributor/build/MerkleDistributor.json'
 import { CurrencyAmount, Token } from '@uniswap/sdk-core'
-import { MERKLE_DISTRIBUTOR_ADDRESS } from 'constants/addresses'
+import { MERKLE_DISTRIBUTOR_ADDRESS } from 'custom/constants/addresses'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import JSBI from 'jsbi'
 import { useSingleCallResult } from 'lib/hooks/multicall'
