@@ -6,7 +6,7 @@ import { InjectedConnector } from 'web3-react-injected-connector'
 import { WalletConnectConnector } from 'web3-react-walletconnect-connector'
 import { WalletLinkConnector } from 'web3-react-walletlink-connector'
 
-import UNISWAP_LOGO_URL from '../assets/svg/logo.svg'
+import UNISWAP_LOGO_URL from '../custom/assets/svg/logo.svg'
 import getLibrary from '../utils/getLibrary'
 import { FortmaticConnector } from './Fortmatic'
 import { NetworkConnector } from './NetworkConnector'
