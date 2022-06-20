@@ -6,7 +6,7 @@ import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import styled from 'styled-components/macro'
 import { ThemedText } from 'theme'
 
-import { ExternalLink } from '../../theme'
+import { ExternalLink } from '../../custom/theme'
 
 const CTASection = styled.section`
   display: grid;

@@ -2,7 +2,7 @@ import { Trans } from '@lingui/macro'
 import { Percent } from '@uniswap/sdk-core'
 import styled from 'styled-components/macro'
 
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { RowBetween, RowFixed } from '../Row'
 import SettingsTab from '../Settings'
 

@@ -5,7 +5,7 @@ import { useContext } from 'react'
 import { AlertCircle } from 'react-feather'
 import styled, { ThemeContext } from 'styled-components/macro'
 
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { AutoColumn } from '../Column'
 import { AutoRow } from '../Row'
 

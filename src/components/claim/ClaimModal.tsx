@@ -13,7 +13,7 @@ import { useModalOpen, useToggleSelfClaimModal } from '../../state/application/h
 import { ApplicationModal } from '../../state/application/reducer'
 import { useClaimCallback, useUserClaimData, useUserUnclaimedAmount } from '../../state/claim/hooks'
 import { useUserHasSubmittedClaim } from '../../state/transactions/hooks'
-import { CloseIcon, CustomLightSpinner, ExternalLink, ThemedText, UniTokenAnimated } from '../../theme'
+import { CloseIcon, CustomLightSpinner, ExternalLink, ThemedText, UniTokenAnimated } from '../../custom/theme'
 import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
 import { ButtonPrimary } from '../Button'
 import { AutoColumn, ColumnCenter } from '../Column'

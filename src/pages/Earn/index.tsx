@@ -11,7 +11,7 @@ import Loader from '../../components/Loader'
 import { RowBetween } from '../../components/Row'
 import { BIG_INT_ZERO } from '../../constants/misc'
 import { STAKING_REWARDS_INFO, useStakingInfo } from '../../state/stake/hooks'
-import { ExternalLink, ThemedText } from '../../theme'
+import { ExternalLink, ThemedText } from '../../custom/theme'
 import { Countdown } from './Countdown'
 
 const PageWrapper = styled(AutoColumn)`

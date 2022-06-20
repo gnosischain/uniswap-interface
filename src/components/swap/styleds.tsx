@@ -6,7 +6,7 @@ import { AlertTriangle } from 'react-feather'
 import { Text } from 'rebass'
 import styled, { css } from 'styled-components/macro'
 
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { AutoColumn } from '../Column'
 import TradePrice from './TradePrice'
 

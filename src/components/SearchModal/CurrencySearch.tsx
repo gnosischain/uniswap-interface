@@ -19,7 +19,7 @@ import { useAllTokenBalances } from 'state/wallet/hooks'
 import styled from 'styled-components/macro'
 
 import { useAllTokens, useIsUserAddedToken, useSearchInactiveTokenLists, useToken } from '../../hooks/Tokens'
-import { ButtonText, CloseIcon, IconWrapper, ThemedText } from '../../theme'
+import { ButtonText, CloseIcon, IconWrapper, ThemedText } from '../../custom/theme'
 import { isAddress } from '../../utils'
 import Column from '../Column'
 import Row, { RowBetween, RowFixed } from '../Row'

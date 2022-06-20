@@ -9,7 +9,7 @@ import { useContext, useMemo } from 'react'
 import { InterfaceTrade } from 'state/routing/types'
 import styled, { ThemeContext } from 'styled-components/macro'
 
-import { Separator, ThemedText } from '../../theme'
+import { Separator, ThemedText } from '../../custom/theme'
 import { computeRealizedLPFeePercent } from '../../utils/prices'
 import { AutoColumn } from '../Column'
 import { RowBetween, RowFixed } from '../Row'

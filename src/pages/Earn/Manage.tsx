@@ -26,7 +26,7 @@ import { useV2Pair } from '../../hooks/useV2Pairs'
 import { useWalletModalToggle } from '../../state/application/hooks'
 import { useStakingInfo } from '../../state/stake/hooks'
 import { useTokenBalance } from '../../state/wallet/hooks'
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { currencyId } from '../../utils/currencyId'
 
 const PageWrapper = styled(AutoColumn)`

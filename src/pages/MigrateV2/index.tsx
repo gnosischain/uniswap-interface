@@ -20,7 +20,7 @@ import { Dots } from '../../components/swap/styleds'
 import { V2_FACTORY_ADDRESSES } from '../../custom/constants/addresses'
 import { toV2LiquidityToken, useTrackedTokenPairs } from '../../state/user/hooks'
 import { useTokenBalancesWithLoadingIndicator } from '../../state/wallet/hooks'
-import { BackArrow, StyledInternalLink, ThemedText } from '../../theme'
+import { BackArrow, StyledInternalLink, ThemedText } from '../../custom/theme'
 import { BodyWrapper } from '../AppBody'
 
 function EmptyState({ message }: { message: ReactNode }) {

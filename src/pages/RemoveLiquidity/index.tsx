@@ -36,7 +36,7 @@ import { useBurnActionHandlers, useBurnState, useDerivedBurnInfo } from '../../s
 import { useTransactionAdder } from '../../state/transactions/hooks'
 import { TransactionType } from '../../state/transactions/types'
 import { useUserSlippageToleranceWithDefault } from '../../state/user/hooks'
-import { StyledInternalLink, ThemedText } from '../../theme'
+import { StyledInternalLink, ThemedText } from '../../custom/theme'
 import { calculateGasMargin } from '../../utils/calculateGasMargin'
 import { calculateSlippageAmount } from '../../utils/calculateSlippageAmount'
 import { currencyId } from '../../utils/currencyId'

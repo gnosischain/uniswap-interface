@@ -48,7 +48,7 @@ import {
 } from '../../state/governance/hooks'
 import { VoteOption } from '../../state/governance/types'
 import { useTokenBalance } from '../../state/wallet/hooks'
-import { ExternalLink, StyledInternalLink, ThemedText } from '../../theme'
+import { ExternalLink, StyledInternalLink, ThemedText } from '../../custom/theme'
 import { isAddress } from '../../utils'
 import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
 import { ProposalStatus } from './styled'

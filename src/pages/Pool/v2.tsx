@@ -23,7 +23,7 @@ import { useV2Pairs } from '../../hooks/useV2Pairs'
 import { useStakingInfo } from '../../state/stake/hooks'
 import { toV2LiquidityToken, useTrackedTokenPairs } from '../../state/user/hooks'
 import { useTokenBalancesWithLoadingIndicator } from '../../state/wallet/hooks'
-import { ExternalLink, HideSmall, ThemedText } from '../../theme'
+import { ExternalLink, HideSmall, ThemedText } from '../../custom/theme'
 
 const PageWrapper = styled(AutoColumn)`
   max-width: 640px;

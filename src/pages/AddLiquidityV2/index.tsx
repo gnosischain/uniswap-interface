@@ -35,7 +35,7 @@ import { useDerivedMintInfo, useMintActionHandlers, useMintState } from '../../s
 import { useTransactionAdder } from '../../state/transactions/hooks'
 import { TransactionType } from '../../state/transactions/types'
 import { useIsExpertMode, useUserSlippageToleranceWithDefault } from '../../state/user/hooks'
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { calculateGasMargin } from '../../utils/calculateGasMargin'
 import { calculateSlippageAmount } from '../../utils/calculateSlippageAmount'
 import { currencyId } from '../../utils/currencyId'

@@ -7,7 +7,7 @@ import { InterfaceTrade } from 'state/routing/types'
 import styled, { ThemeContext } from 'styled-components/macro'
 
 import { useUSDCValue } from '../../hooks/useUSDCPrice'
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { isAddress, shortenAddress } from '../../utils'
 import { computeFiatValuePriceImpact } from '../../utils/computeFiatValuePriceImpact'
 import { ButtonPrimary } from '../Button'

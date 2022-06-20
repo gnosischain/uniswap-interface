@@ -22,8 +22,8 @@ import ListsUpdater from './state/lists/updater'
 import LogsUpdater from './state/logs/updater'
 import TransactionUpdater from './state/transactions/updater'
 import UserUpdater from './state/user/updater'
-import ThemeProvider, { ThemedGlobalStyle } from './theme'
-import RadialGradientByChainUpdater from './theme/RadialGradientByChainUpdater'
+import ThemeProvider, { ThemedGlobalStyle } from './custom/theme'
+import RadialGradientByChainUpdater from './custom/theme/RadialGradientByChainUpdater'
 import getLibrary from './utils/getLibrary'
 
 const Web3ProviderNetwork = createWeb3ReactRoot(NetworkContextName)

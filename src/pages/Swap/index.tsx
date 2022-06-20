@@ -51,7 +51,7 @@ import {
   useSwapState,
 } from '../../state/swap/hooks'
 import { useExpertModeManager } from '../../state/user/hooks'
-import { LinkStyledButton, ThemedText } from '../../theme'
+import { LinkStyledButton, ThemedText } from '../../custom/theme'
 import { computeFiatValuePriceImpact } from '../../utils/computeFiatValuePriceImpact'
 import { maxAmountSpend } from '../../utils/maxAmountSpend'
 import { warningSeverity } from '../../utils/prices'

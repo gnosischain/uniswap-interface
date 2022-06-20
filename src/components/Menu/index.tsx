@@ -28,7 +28,7 @@ import { ReactComponent as MenuIcon } from '../../assets/images/menu.svg'
 import { useOnClickOutside } from '../../hooks/useOnClickOutside'
 import { useModalOpen, useToggleModal } from '../../state/application/hooks'
 import { ApplicationModal } from '../../state/application/reducer'
-import { ExternalLink } from '../../theme'
+import { ExternalLink } from '../../custom/theme'
 import { ButtonPrimary } from '../Button'
 
 export enum FlyoutAlignment {

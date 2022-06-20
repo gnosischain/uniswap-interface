@@ -6,7 +6,7 @@ import { ButtonPrimary } from '../../components/Button'
 import CurrencyLogo from '../../components/CurrencyLogo'
 import { RowBetween, RowFixed } from '../../components/Row'
 import { Field } from '../../state/mint/actions'
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 
 export function ConfirmAddModalBottom({
   noLiquidity,

@@ -2,7 +2,7 @@ import { useContext } from 'react'
 import styled from 'styled-components/macro'
 import { ThemeContext } from 'styled-components/macro'
 
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { AutoColumn } from '../Column'
 
 const Wrapper = styled(AutoColumn)`

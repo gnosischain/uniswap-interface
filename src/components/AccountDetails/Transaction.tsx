@@ -3,7 +3,7 @@ import { CheckCircle, Triangle } from 'react-feather'
 import styled from 'styled-components/macro'
 
 import { useAllTransactions } from '../../state/transactions/hooks'
-import { ExternalLink } from '../../theme'
+import { ExternalLink } from '../../custom/theme'
 import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
 import Loader from '../Loader'
 import { RowFixed } from '../Row'
