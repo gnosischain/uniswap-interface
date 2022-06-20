@@ -9,7 +9,7 @@ import { useMemo } from 'react'
 import { InterfaceTrade } from 'state/routing/types'
 
 import useGasPrice from './useGasPrice'
-import useUSDCPrice, { useUSDCValue } from './useUSDCPrice'
+import useUSDCPrice, { useUSDCValue } from '../custom/hooks/useUSDCPrice'
 
 const V3_SWAP_DEFAULT_SLIPPAGE = new Percent(50, 10_000) // .50%
 const ONE_TENTHS_PERCENT = new Percent(10, 10_000) // .10%
