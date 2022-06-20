@@ -1,5 +1,5 @@
 import { Currency, Token } from '@uniswap/sdk-core'
-import { CHAIN_INFO } from 'constants/chainInfo'
+import { CHAIN_INFO } from 'custom/constants/chainInfo'
 import { L2_CHAIN_IDS, SupportedChainId, SupportedL2ChainId } from 'custom/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useCurrencyFromMap, useTokenFromMapOrNetwork } from 'lib/hooks/useCurrency'

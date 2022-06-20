@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { CHAIN_INFO } from 'constants/chainInfo'
+import { CHAIN_INFO } from 'custom/constants/chainInfo'
 import { CHAIN_IDS_TO_NAMES, SupportedChainId } from 'custom/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useOnClickOutside } from 'hooks/useOnClickOutside'

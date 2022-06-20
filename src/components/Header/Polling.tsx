@@ -1,6 +1,6 @@
 import { Trans } from '@lingui/macro'
 import { RowFixed } from 'components/Row'
-import { CHAIN_INFO } from 'constants/chainInfo'
+import { CHAIN_INFO } from 'custom/constants/chainInfo'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import useCurrentBlockTimestamp from 'hooks/useCurrentBlockTimestamp'
 import useGasPrice from 'hooks/useGasPrice'

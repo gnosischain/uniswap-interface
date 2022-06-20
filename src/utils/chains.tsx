@@ -1,4 +1,4 @@
-import { CHAIN_INFO, NetworkType } from 'constants/chainInfo'
+import { CHAIN_INFO, NetworkType } from 'custom/constants/chainInfo'
 import { SupportedL1ChainId, SupportedL2ChainId } from 'custom/constants/chains'
 
 export function isL1ChainId(chainId: number | undefined): chainId is SupportedL1ChainId {

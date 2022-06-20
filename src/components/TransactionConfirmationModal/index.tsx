@@ -1,7 +1,7 @@
 import { Trans } from '@lingui/macro'
 import { Currency } from '@uniswap/sdk-core'
 import Badge from 'components/Badge'
-import { CHAIN_INFO } from 'constants/chainInfo'
+import { CHAIN_INFO } from 'custom/constants/chainInfo'
 import { L2_CHAIN_IDS, SupportedL2ChainId } from 'custom/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import useAddTokenToMetamask from 'hooks/useAddTokenToMetamask'
