@@ -175,7 +175,7 @@ export const CHAIN_INFO: ChainInfoMap = {
     bridge: 'https://omni.gnosischain.com/bridge',
     explorer: 'https://blockscout.com/xdai/mainnet/',
     infoLink: 'https://www.gnosischain.com/',
-    label: 'Gnosis Chain',
+    label: 'Gnosis',
     logoUrl: gnosisChainLogo,
     nativeCurrency: { name: 'xDai', symbol: 'XDAI', decimals: 18 },
   },
