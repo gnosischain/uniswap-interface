@@ -11,7 +11,7 @@ import { shallowEqual } from 'react-redux'
 import { useAppDispatch, useAppSelector } from 'state/hooks'
 
 import { V2_FACTORY_ADDRESSES } from '../../custom/constants/addresses'
-import { BASES_TO_TRACK_LIQUIDITY_FOR, PINNED_PAIRS } from '../../constants/routing'
+import { BASES_TO_TRACK_LIQUIDITY_FOR, PINNED_PAIRS } from '../../custom/constants/routing'
 import { useAllTokens } from '../../hooks/Tokens'
 import { AppState } from '../index'
 import {
