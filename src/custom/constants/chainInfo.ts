@@ -8,8 +8,6 @@ import ms from 'ms.macro'
 import { SupportedChainId, SupportedL1ChainId, SupportedL2ChainId } from './chains'
 import { ARBITRUM_LIST, OPTIMISM_LIST } from './lists'
 
-export const TOKENS_BRANCH = 'gc-integration'
-
 export enum NetworkType {
   L1,
   L2,
