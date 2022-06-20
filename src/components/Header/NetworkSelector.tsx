@@ -16,7 +16,7 @@ import { ExternalLink, MEDIA_WIDTHS } from 'theme'
 import { replaceURLParam } from 'utils/routes'
 
 import { useAppDispatch } from '../../state/hooks'
-import { switchToNetwork } from '../../utils/switchToNetwork'
+import { switchToNetwork } from '../../custom/utils/switchToNetwork'
 
 const ActiveRowLinkList = styled.div`
   display: flex;
