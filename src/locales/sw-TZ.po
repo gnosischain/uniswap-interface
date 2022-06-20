@@ -625,7 +625,7 @@ msgstr "Amana UNI-V2 LP Ishara"
 msgid "Deposit liquidity"
 msgstr "Amana ukwasi"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Weka alama kwenye mtandao {label}"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "Ishara {activeTokensOnThisChain}"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} daraja la ishara"
 

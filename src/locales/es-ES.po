@@ -625,7 +625,7 @@ msgstr "Depositar Tokens LP UNI-V2"
 msgid "Deposit liquidity"
 msgstr "Depositar liquidez"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Deposite tokens en la red {label}"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} fichas"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} token puente"
 

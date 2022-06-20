@@ -625,7 +625,7 @@ msgstr "Sätt in UNI-V2 LP-tokens"
 msgid "Deposit liquidity"
 msgstr "Insättningslikviditet"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Sätt in tokens till {label} nätverket."
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} tokens"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} token bridge"
 

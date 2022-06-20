@@ -8,9 +8,9 @@ import styled, {
 } from 'styled-components/macro'
 
 import { useIsDarkMode } from '../../state/user/hooks'
-import { Colors } from '../../custom/theme/styled'
+import { Colors } from './styled'
 
-export * from '../../custom/theme/components'
+export * from './components'
 
 type TextProps = Omit<TextPropsOriginal, 'css'>
 

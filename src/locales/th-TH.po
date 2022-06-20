@@ -625,7 +625,7 @@ msgstr "ฝากโทเค็น LP ของ UNI-V2"
 msgid "Deposit liquidity"
 msgstr "สภาพคล่องในการฝาก"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "ฝากโทเค็นไปยังเครือข่าย {label}"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} โทเค็น"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "สะพานโทเค็น {label}"
 

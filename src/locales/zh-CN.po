@@ -625,7 +625,7 @@ msgstr "充入 UNI-V2 流动池代币"
 msgid "Deposit liquidity"
 msgstr "充入流动资金"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "将代币存入 {label} 网络。"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI 代币"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} 代币"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} 代币桥"
 
