@@ -244,11 +244,11 @@ msgstr "Onaylanıyor"
 msgid "Approving {0}"
 msgstr "Onaylanıyor {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Arbitrum Köprüsü"
 
@@ -316,7 +316,7 @@ msgstr "Engellenen Adres"
 msgid "Blocked address"
 msgstr "Engellenen adres"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Köprü"
 
@@ -755,7 +755,7 @@ msgstr "Tahmin, cüzdan gaz ayarlarınız nedeniyle farklılık gösterebilir"
 msgid "Estimated network fee"
 msgstr "Tahmini ağ ücreti"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "eter tarama"
 
@@ -831,7 +831,7 @@ msgstr "Tam aralıklı pozisyonlar, konsantre pozisyonlardan daha az ücret alab
 msgid "Get support on Discord"
 msgstr "Discord ile ilgili destek alın"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Yardım Merkezi"
@@ -1177,7 +1177,7 @@ msgstr "Yalnızca {0} bloğundan önce kendi kendine verilen veya başka bir adr
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Bilinmeyen bir hata oluştu. Lütfen sayfayı yenileyin veya başka bir tarayıcı ya da cihazdan ziyaret edin."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "İyimserlik Köprüsü"
 
@@ -1185,7 +1185,7 @@ msgstr "İyimserlik Köprüsü"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "İyimserlik Beta'dadır ve aksama süresi yaşayabilir. İyimserlik, yakın gelecekte ağı yükseltmek için planlı kapalı kalma süresi beklemektedir. Duruş süresi boyunca, pozisyonunuz ücret kazanmaz ve likiditeyi kaldıramazsınız. <0>Devamını okuyun.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "İyimser Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "Lütfen açılır menüden veya cüzdanınızdan desteklenen bir ağa ba
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Uzman modunu etkinleştirmek için lütfen \"{confirmWord}\" sözcüğünü yazın."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "çokgen köprü"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "poligon taraması"
 
@@ -1435,7 +1435,7 @@ msgstr "Adı arayın veya adresi yapıştırın"
 msgid "Select Pair"
 msgstr "Çift Seç"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Bir ağ seçin"
 

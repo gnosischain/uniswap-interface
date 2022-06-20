@@ -244,11 +244,11 @@ msgstr "Schvalování"
 msgid "Approving {0}"
 msgstr "Schvalování {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Arbitrum Bridge"
 
@@ -316,7 +316,7 @@ msgstr "Blokovaná adresa"
 msgid "Blocked address"
 msgstr "Blokovaná adresa"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Most"
 
@@ -755,7 +755,7 @@ msgstr "Odhad se může lišit v závislosti na nastavení vaší peněženky"
 msgid "Estimated network fee"
 msgstr "Odhadovaný poplatek za síť"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Pozice v celém rozsahu mohou vydělávat méně poplatků než koncentr
 msgid "Get support on Discord"
 msgstr "Získejte podporu o Discord"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Centrum nápovědy"
@@ -1177,7 +1177,7 @@ msgstr "Způsobilé k hlasování jsou jen hlasy UNI, které byly delegovány so
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Jejda! Došlo k neznámé chybě. Obnovte prosím stránku nebo ji navštivte z jiného prohlížeče nebo zařízení."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Most optimismu"
 
@@ -1185,7 +1185,7 @@ msgstr "Most optimismu"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimismus je v beta verzi a může dojít k výpadkům. Optimism očekává, že plánované odstávky upgradují síť v blízké budoucnosti. Během výpadku nebude vaše pozice vydělávat poplatky a nebudete moci odstranit likviditu. <0>Přečtěte si více.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Optimistický Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "Připojte se k podporované síti v rozbalovací nabídce nebo ve své p
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Pro povolení expertního režimu zadejte slovo \"{confirmWord}\"."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Polygonový most"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Vyhledejte název nebo vložte adresu"
 msgid "Select Pair"
 msgstr "Vyberte možnost Párovat"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Vyberte síť"
 

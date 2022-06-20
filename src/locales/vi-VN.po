@@ -244,11 +244,11 @@ msgstr "Đang phê duyệt"
 msgid "Approving {0}"
 msgstr "Đang phê duyệt {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Cầu Arbitrum"
 
@@ -316,7 +316,7 @@ msgstr "Địa chỉ bị chặn"
 msgid "Blocked address"
 msgstr "Địa chỉ bị chặn"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Cầu"
 
@@ -755,7 +755,7 @@ msgstr "Ước tính có thể khác do cài đặt gas ví của bạn"
 msgid "Estimated network fee"
 msgstr "Phí mạng ước tính"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Các vị trí đầy đủ có thể kiếm được ít phí hơn các
 msgid "Get support on Discord"
 msgstr "Nhận hỗ trợ về Discord"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Trung tâm trợ giúp"
@@ -1177,7 +1177,7 @@ msgstr "Chỉ những phiếu bầu UNI đã được tự ủy quyền hoặc �
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Ối! Đã xảy ra lỗi không xác định. Vui lòng làm mới trang hoặc truy cập từ trình duyệt hoặc thiết bị khác."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Cầu lạc quan"
 
@@ -1185,7 +1185,7 @@ msgstr "Cầu lạc quan"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Tính năng lạc quan đang ở giai đoạn Beta và có thể gặp phải thời gian chết. Lạc quan mong đợi thời gian ngừng hoạt động theo kế hoạch để nâng cấp mạng trong tương lai gần. Trong thời gian ngừng hoạt động, vị trí của bạn sẽ không kiếm được phí và bạn sẽ không thể xóa thanh khoản. <0>Đọc thêm.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Etherscan lạc quan"
 
@@ -1234,11 +1234,11 @@ msgstr "Vui lòng kết nối với mạng được hỗ trợ trong menu thả 
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Vui lòng nhập từ \"{confirmWord}\" để bật chế độ chuyên gia."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Cầu đa giác"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Tìm kiếm tên hoặc dán địa chỉ"
 msgid "Select Pair"
 msgstr "Chọn cặp"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Chọn một mạng"
 

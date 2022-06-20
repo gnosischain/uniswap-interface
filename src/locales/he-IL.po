@@ -244,11 +244,11 @@ msgstr "מאשר"
 msgid "Approving {0}"
 msgstr "מאשר {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "ארביסקאן"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "גשר ארביטרום"
 
@@ -316,7 +316,7 @@ msgstr "כתובת חסומה"
 msgid "Blocked address"
 msgstr "כתובת חסומה"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "לְגַשֵׁר"
 
@@ -755,7 +755,7 @@ msgstr "ההערכה עשויה להשתנות עקב הגדרות הגז באר
 msgid "Estimated network fee"
 msgstr "עמלת רשת משוערת"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "תפקידים בטווח מלא עשויים להרוויח פחות ש
 msgid "Get support on Discord"
 msgstr "קבל תמיכה בדיסקורד"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "מרכז עזרה"
@@ -1177,7 +1177,7 @@ msgstr "זכאים להצביע רק קולות של UNI שהועברו בעצמ
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "אופס! אירעה שגיאה לא ידועה. אנא רענן את הדף, או בקר בדפדפן או במכשיר אחר."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "גשר אופטימיות"
 
@@ -1185,7 +1185,7 @@ msgstr "גשר אופטימיות"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "האופטימיות נמצאת בגרסת בטא ועשויה לחוות זמן השבתה. אופטימיות צופה זמן השבתה מתוכנן כדי לשדרג את הרשת בעתיד הקרוב. בזמן השבתה, העמדה שלך לא תזכה בעמלות ולא תוכל להסיר נזילות. <0>קרא עוד.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "את'רקאן אופטימי"
 
@@ -1234,11 +1234,11 @@ msgstr "אנא התחבר לרשת נתמכת בתפריט הנפתח או בא�
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "אנא הקלד את המילה \"{confirmWord}\" כדי להפעיל מצב מומחה."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "גשר מצולע"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "פוליגונסקן"
 
@@ -1435,7 +1435,7 @@ msgstr "חפש שם או הדבק כתובת"
 msgid "Select Pair"
 msgstr "בחר זוג"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "בחר רשת"
 

@@ -244,11 +244,11 @@ msgstr "Идёт одобрение"
 msgid "Approving {0}"
 msgstr "Идёт одобрение {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Мост в Arbitrum"
 
@@ -316,7 +316,7 @@ msgstr "Заблокированный адрес"
 msgid "Blocked address"
 msgstr "Заблокированный адрес"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Мост"
 
@@ -755,7 +755,7 @@ msgstr "Оценка может отличаться в зависимости �
 msgid "Estimated network fee"
 msgstr "Приблизительная комиссия сети"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Позиции полного диапазона могут зараба
 msgid "Get support on Discord"
 msgstr "Получите поддержку в Discord"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Центр поддержки"
@@ -1177,7 +1177,7 @@ msgstr "Проголосовать могут только те голоса UNI
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Ой! Произошла неизвестная ошибка. Пожалуйста, обновите страницу или откройте из другого браузера или с другого устройства."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Мост в Optimism"
 
@@ -1185,7 +1185,7 @@ msgstr "Мост в Optimism"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimism находится на стадии бета-тестирования, возможны перерывы в работе. В ближайшем будущем ожидается плановый перерыв в работе Optimism для обновления сети. Во время перерыва ваша позиция не будет зарабатывать комиссии, и вы не сможете удалить ликвидность. <0>Читать дальше.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Etherscan для Optimism"
 
@@ -1234,11 +1234,11 @@ msgstr "Пожалуйста, подключитесь на поддержива
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Пожалуйста, введите слово \"{confirmWord}\", чтобы включить экспертный режим."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Мост в Polygon"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Найдите по имени или вставьте адрес"
 msgid "Select Pair"
 msgstr "Выберите пару"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Выберите сеть"
 

@@ -244,11 +244,11 @@ msgstr "Bestätige"
 msgid "Approving {0}"
 msgstr "Schalte {0} frei"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Arbitrum-Brücke"
 
@@ -316,7 +316,7 @@ msgstr "Gesperrte Adresse"
 msgid "Blocked address"
 msgstr "Gesperrte Adresse"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Brücke"
 
@@ -755,7 +755,7 @@ msgstr "Schätzung kann aufgrund Ihrer Wallet-Gaseinstellungen abweichen"
 msgid "Estimated network fee"
 msgstr "Geschätzte Netzwerkgebühr"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Positionen über den gesamten Bereich können weniger Gebühren einbring
 msgid "Get support on Discord"
 msgstr "Holen Sie sich Unterstützung bei Discord"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Hilfezentrum"
@@ -1177,7 +1177,7 @@ msgstr "Nur UNI-Stimmen, die vor Block {0} an die eigene oder eine fremde Adress
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Hoppla! Ein unbekannter Fehler ist aufgetreten. Bitte aktualisieren Sie die Seite oder besuchen Sie uns von einem anderen Browser oder Gerät."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Optimismus-Brücke"
 
@@ -1185,7 +1185,7 @@ msgstr "Optimismus-Brücke"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimismus befindet sich in der Betaphase und kann zu Ausfallzeiten führen. Optimismus erwartet geplante Ausfallzeiten, um das Netzwerk in naher Zukunft zu aktualisieren. Während der Ausfallzeit werden für Ihre Position keine Gebühren erhoben und Sie können keine Liquidität entfernen. <0>Lesen Sie mehr.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Optimism Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "Bitte verbinden Sie sich im Dropdown-Menü oder in Ihrem Wallet mit eine
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Bitte geben Sie das Wort \"{confirmWord}\" ein, um den Experten-Modus zu aktivieren."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Polygonbrücke"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Name suchen oder Adresse einfügen"
 msgid "Select Pair"
 msgstr "Paar auswählen"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Wählen Sie ein Netzwerk"
 

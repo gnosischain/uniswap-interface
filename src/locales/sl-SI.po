@@ -244,11 +244,11 @@ msgstr "Odobritev v teku"
 msgid "Approving {0}"
 msgstr "Odobritev {0} v teku"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Most v Arbitrum"
 
@@ -316,7 +316,7 @@ msgstr "Blokiran naslov"
 msgid "Blocked address"
 msgstr "Blokiran naslov"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Most"
 
@@ -755,7 +755,7 @@ msgstr "Ocena se lahko spremeni zaradi nastavitev plina v vaši denarnici"
 msgid "Estimated network fee"
 msgstr "Ocena omrežne provizije"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Položaji polnega razpona lahko zaslužijo manj provizij kot koncentrira
 msgid "Get support on Discord"
 msgstr "Poiščite podporo na Discordu"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Center za pomoč"
@@ -1177,7 +1177,7 @@ msgstr "Do glasovanja so upravičeni samo glasovi UNI, ki so bili samozastopani 
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Ojej! Prišlo je do neznane napake. Osvežite stran ali poskusite v drugem brskalniku ali napravi."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Most optimizma"
 
@@ -1185,7 +1185,7 @@ msgstr "Most optimizma"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimism je v različici beta in lahko prihaja do izpadov. Optimizem pričakuje v bližnji prihodnosti načrtovane izpade za nadgradnjo omrežja. V času izpadov vaša pozicija ne bo služila pristojbin in likvidnosti ne boste mogli odstraniti. <0> Preberi več.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Optimistic Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "Povežite se s podprtim omrežjem v spustnem meniju ali v svoji denarnic
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Prosimo, vnesite besedo \"{confirmWord}\", če želite omogočiti strokovni način."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Most za Polygon"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Poiščite ime ali prilepite naslov"
 msgid "Select Pair"
 msgstr "Izberite par"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Izberite omrežje"
 

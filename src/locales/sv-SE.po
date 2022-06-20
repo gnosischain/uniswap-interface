@@ -244,11 +244,11 @@ msgstr "Godkänner"
 msgid "Approving {0}"
 msgstr "Godkänner {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiskan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Arbitrum Bridge"
 
@@ -316,7 +316,7 @@ msgstr "Blockerad adress"
 msgid "Blocked address"
 msgstr "Blockerad adress"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Bro"
 
@@ -755,7 +755,7 @@ msgstr "Uppskattningen kan skilja sig beroende på gasinställningarna i din pl�
 msgid "Estimated network fee"
 msgstr "Beräknad nätavgift"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Fullständiga positioner kan tjäna mindre avgifter än koncentrerade po
 msgid "Get support on Discord"
 msgstr "Få support angående brist på överensstämmelse"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Hjälpcenter"
@@ -1177,7 +1177,7 @@ msgstr "Endast UNI-röster som var självdelegerade eller delegerade till en ann
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Hoppsan! Ett okänt fel inträffade. Uppdatera sidan eller använd en annan webbläsare eller enhet."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Optimism Bridge"
 
@@ -1185,7 +1185,7 @@ msgstr "Optimism Bridge"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimism är i Beta och kan uppleva driftstopp. Optimism räknar med planerade driftstopp för att uppgradera nätverket inom en snar framtid. Under driftstopp kommer din position inte att tjäna några avgifter och du kommer inte att kunna ta bort likviditet. <0>Läs mer.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Optimistisk Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "Anslut till ett nätverk som stöds i rullgardinsmenyn eller i din plån
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Skriv in ordet \"{confirmWord}\" för att aktivera expertläge."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Polygon bro"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Sök namn eller klistra in adress"
 msgid "Select Pair"
 msgstr "Välj Par"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Välj ett nätverk"
 

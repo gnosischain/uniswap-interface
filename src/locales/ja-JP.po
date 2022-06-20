@@ -244,11 +244,11 @@ msgstr "承認中"
 msgid "Approving {0}"
 msgstr "{0} を承認中"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Arbitrumブリッジ"
 
@@ -316,7 +316,7 @@ msgstr "ブロックされたアドレス"
 msgid "Blocked address"
 msgstr "ブロックされたアドレス"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "ブリッジ"
 
@@ -755,7 +755,7 @@ msgstr "ウォレットのガス設定により、見積もりが異なる場合
 msgid "Estimated network fee"
 msgstr "推定ネットワーク料金"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "全範囲のポジションは、集中型ポジションよりも手数
 msgid "Get support on Discord"
 msgstr "Discordでサポートを受ける"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "ヘルプセンター"
@@ -1177,7 +1177,7 @@ msgstr "ブロック{0} 以前に自己委任、または他のアドレスに�
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "不明なエラーが発生しました。ページを更新するか、別のブラウザまたはデバイスからアクセスしてください。"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "オプティミズムブリッジ"
 
@@ -1185,7 +1185,7 @@ msgstr "オプティミズムブリッジ"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimism はベータ版であり、ダウンタイムが発生する可能性があります。 Optimismは、近い将来、ネットワークをアップグレードするために計画されたダウンタイムを予想しています。ダウンタイム中、あなたのポジションは手数料を獲得せず、流動性を取り除くことができなくなります。 <0>続きを読む。</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Optimistic Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "ドロップダウンメニューまたはウォレットでサポート
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "エキスパートモードを有効にするには、単語\"{confirmWord}\"を入力してください。"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Polygonブリッジ"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "トークン名またはアドレス"
 msgid "Select Pair"
 msgstr "ペアを選択"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "ネットワークを選択"
 
