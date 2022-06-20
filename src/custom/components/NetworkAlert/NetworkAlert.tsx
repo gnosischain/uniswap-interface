@@ -80,7 +80,7 @@ const BG_COLORS_BY_DARK_MODE_AND_CHAIN_ID: {
     [SupportedChainId.ARBITRUM_RINKEBY]:
       'radial-gradient(285% 8200% at 30% 50%, rgba(40, 160, 240, 0.1) 0%, rgba(219, 255, 0, 0) 100%),radial-gradient(circle at top left, hsla(206, 50%, 75%, 0.01), hsla(215, 79%, 51%, 0.12)), hsla(0, 0%, 100%, 0.1)',
     [SupportedChainId.GNOSIS_CHAIN]:
-      'radial-gradient(285% 8200% at 30% 50%, rgba(0, 129, 90, 0.1) 0%, rgba(219, 255, 0, 0) 100%),radial-gradient(circle at top left, hsla(206, 50%, 75%, 0.01), hsla(215, 79%, 51%, 0.12)), hsla(0, 0%, 100%, 0.1)',
+      'radial-gradient(285% 8200% at 30% 50%, rgba(0, 129, 90, 0.1) 0%, rgba(219, 255, 0, 0) 100%),radial-gradient(circle at top left, hsla(206, 50%, 75%, 0.01), 	hsl(162, 100%, 25%, 0.12)), hsla(0, 0%, 100%, 0.1)',
   },
 }
 
