@@ -7,7 +7,7 @@ import styled, { ThemeContext } from 'styled-components/macro'
 import Circle from '../../assets/images/blue-loader.svg'
 import { CloseIcon, CustomLightSpinner, ThemedText } from '../../custom/theme'
 import { ExternalLink } from '../../custom/theme/components'
-import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
+import { ExplorerDataType, getExplorerLink } from '../../custom/utils/getExplorerLink'
 import { AutoColumn, ColumnCenter } from '../Column'
 import { RowBetween } from '../Row'
 

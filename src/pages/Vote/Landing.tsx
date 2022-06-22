@@ -24,7 +24,7 @@ import { useTokenBalance } from 'state/wallet/hooks'
 import styled from 'styled-components/macro'
 import { ExternalLink, ThemedText } from 'theme'
 import { shortenAddress } from 'utils'
-import { ExplorerDataType, getExplorerLink } from 'utils/getExplorerLink'
+import { ExplorerDataType, getExplorerLink } from 'custom/utils/getExplorerLink'
 
 import { ZERO_ADDRESS } from '../../constants/misc'
 import { UNI } from '../../custom/constants/tokens'

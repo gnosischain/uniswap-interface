@@ -50,7 +50,7 @@ import { BackArrow, ExternalLink, ThemedText } from '../../theme'
 import { isAddress } from '../../utils'
 import { calculateGasMargin } from '../../utils/calculateGasMargin'
 import { currencyId } from '../../utils/currencyId'
-import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
+import { ExplorerDataType, getExplorerLink } from '../../custom/utils/getExplorerLink'
 import { BodyWrapper } from '../AppBody'
 
 const ZERO = JSBI.BigInt(0)

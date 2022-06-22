@@ -4,7 +4,7 @@ import styled from 'styled-components/macro'
 
 import { useAllTransactions } from '../../state/transactions/hooks'
 import { ExternalLink } from '../../custom/theme'
-import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
+import { ExplorerDataType, getExplorerLink } from '../../custom/utils/getExplorerLink'
 import Loader from '../Loader'
 import { RowFixed } from '../Row'
 import { TransactionSummary } from './TransactionSummary'

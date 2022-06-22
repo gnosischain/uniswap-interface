@@ -13,7 +13,7 @@ import { useClaimCallback, useUserHasAvailableClaim, useUserUnclaimedAmount } fr
 import { useIsTransactionPending } from '../../state/transactions/hooks'
 import { CloseIcon, CustomLightSpinner, ExternalLink, ThemedText, UniTokenAnimated } from '../../custom/theme'
 import { shortenAddress } from '../../utils'
-import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
+import { ExplorerDataType, getExplorerLink } from '../../custom/utils/getExplorerLink'
 import AddressInputPanel from '../AddressInputPanel'
 import { ButtonPrimary } from '../Button'
 import { AutoColumn, ColumnCenter } from '../Column'
