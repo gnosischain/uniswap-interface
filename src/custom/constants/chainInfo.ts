@@ -23,6 +23,7 @@ interface BaseChainInfo {
   readonly logoUrl: string
   readonly label: string
   readonly helpCenterUrl?: string
+  readonly discordUrl?: string
   readonly nativeCurrency: {
     name: string // e.g. 'Goerli ETH',
     symbol: string // e.g. 'gorETH',
@@ -175,6 +176,8 @@ export const CHAIN_INFO: ChainInfoMap = {
     bridge: 'https://omni.gnosischain.com/bridge',
     explorer: 'https://blockscout.com/xdai/mainnet/',
     infoLink: 'https://www.gnosischain.com/',
+    helpCenterUrl: 'https://docs.gnosischain.com/faq',
+    discordUrl: 'https://discord.com/invite/HmffjbF',
     label: 'Gnosis',
     logoUrl: gnosisChainLogo,
     nativeCurrency: { name: 'xDai', symbol: 'XDAI', decimals: 18 },
