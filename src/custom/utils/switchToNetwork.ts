@@ -4,8 +4,7 @@ import { ExternalProvider } from '@ethersproject/providers'
 import { CHAIN_INFO } from '../constants/chainInfo'
 import { SupportedChainId } from '../constants/chains'
 import { INFURA_NETWORK_URLS } from '../constants/infura'
-
-const GNOSIS_CHAIN_RPC_URL = 'http://127.0.0.1:8546'
+import { RPC_HOST } from '../constants/common'
 
 interface SwitchNetworkArguments {
   provider: ExternalProvider
@@ -33,7 +32,7 @@ function getRpcUrls(chainId: SupportedChainId): [string] {
     case SupportedChainId.POLYGON_MUMBAI:
       return ['https://rpc-endpoints.superfluid.dev/mumbai']
     case SupportedChainId.GNOSIS_CHAIN:
-      return [GNOSIS_CHAIN_RPC_URL]
+      return [RPC_HOST]
     default:
   }
   // Our API-keyed URLs will fail security checks when used with external wallets.

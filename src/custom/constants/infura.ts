@@ -1,4 +1,5 @@
 import { SupportedChainId } from './chains'
+import { RPC_HOST } from './common'
 
 const INFURA_KEY = process.env.REACT_APP_INFURA_KEY
 if (typeof INFURA_KEY === 'undefined') {
@@ -20,5 +21,5 @@ export const INFURA_NETWORK_URLS: { [key in SupportedChainId]: string } = {
   [SupportedChainId.ARBITRUM_RINKEBY]: `https://arbitrum-rinkeby.infura.io/v3/${INFURA_KEY}`,
   [SupportedChainId.POLYGON]: `https://polygon-mainnet.infura.io/v3/${INFURA_KEY}`,
   [SupportedChainId.POLYGON_MUMBAI]: `https://polygon-mumbai.infura.io/v3/${INFURA_KEY}`,
-  [SupportedChainId.GNOSIS_CHAIN]: 'http://127.0.0.1:8546',
+  [SupportedChainId.GNOSIS_CHAIN]: RPC_HOST,
 }
