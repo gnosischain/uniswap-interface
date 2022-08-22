@@ -1,10 +1,9 @@
 import { Currency, Ether, NativeCurrency, Token, WETH9 } from '@uniswap/sdk-core'
 import invariant from 'tiny-invariant'
 
+import { WRAPPED_CHAIN_TOKEN } from './common'
 import { UNI_ADDRESS } from './addresses'
 import { SupportedChainId } from './chains'
-
-export const TOKENS_BRANCH = 'gc-integration'
 
 export const USDC_MAINNET = new Token(
   SupportedChainId.MAINNET,
@@ -335,7 +334,7 @@ export const WRAPPED_NATIVE_CURRENCY: { [chainId: number]: Token | undefined } =
   ),
   [SupportedChainId.GNOSIS_CHAIN]: new Token(
     SupportedChainId.GNOSIS_CHAIN,
-    '0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d',
+    WRAPPED_CHAIN_TOKEN,
     18,
     'WXDAI',
     'Wrapped xDai'

@@ -17,7 +17,7 @@ export enum SupportedChainId {
   POLYGON = 137,
   POLYGON_MUMBAI = 80001,
 
-  GNOSIS_CHAIN = 100,
+  GNOSIS_CHAIN = 100101,
 }
 
 export const CHAIN_IDS_TO_NAMES = {
