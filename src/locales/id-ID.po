@@ -244,11 +244,11 @@ msgstr "Menyetujui"
 msgid "Approving {0}"
 msgstr "Menyetujui {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiskan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Jembatan Arbitrum"
 
@@ -316,7 +316,7 @@ msgstr "Alamat yang Diblokir"
 msgid "Blocked address"
 msgstr "Alamat diblokir"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Menjembatani"
 
@@ -625,7 +625,7 @@ msgstr "Setor Token LP UNI-V2"
 msgid "Deposit liquidity"
 msgstr "Setor likuiditas"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Setor token ke jaringan {label}"
 
@@ -755,7 +755,7 @@ msgstr "Estimasi mungkin berbeda karena pengaturan gas dompet Anda"
 msgid "Estimated network fee"
 msgstr "Perkiraan biaya jaringan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Posisi rentang penuh dapat memperoleh biaya lebih sedikit daripada posis
 msgid "Get support on Discord"
 msgstr "Dapatkan dukungan di Discord"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Pusat Bantuan"
@@ -1177,7 +1177,7 @@ msgstr "Hanya suara UNI yang didelegasikan sendiri atau didelegasikan ke alamat 
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Ups! Terjadi kesalahan yang tidak diketahui. Harap segarkan halaman, atau kunjungi dari browser atau perangkat lain."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Jembatan Optimisme"
 
@@ -1185,7 +1185,7 @@ msgstr "Jembatan Optimisme"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimisme dalam Beta dan mungkin mengalami downtime. Optimisme mengharapkan downtime yang direncanakan untuk meningkatkan jaringan dalam waktu dekat. Selama waktu henti, posisi Anda tidak akan mendapatkan biaya dan Anda tidak akan dapat menghapus likuiditas. <0>Baca lebih lanjut.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Optimis Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "Harap sambungkan ke jaringan yang didukung di menu tarik-turun atau di d
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Ketik kata \"{confirmWord}\" untuk mengaktifkan mode ahli."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Jembatan Poligon"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Cari nama atau tempel alamat"
 msgid "Select Pair"
 msgstr "Pilih Pasangan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Pilih jaringan"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} token"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} token jembatan"
 

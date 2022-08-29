@@ -14,7 +14,7 @@ import { batch } from 'react-redux'
 import { Bound } from 'state/mint/v3/actions'
 import styled from 'styled-components/macro'
 
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { Chart } from './Chart'
 import { useDensityChartData } from './hooks'
 import { ZoomLevels } from './types'

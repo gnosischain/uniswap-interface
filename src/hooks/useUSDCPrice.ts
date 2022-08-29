@@ -3,10 +3,10 @@ import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import tryParseCurrencyAmount from 'lib/utils/tryParseCurrencyAmount'
 import { useMemo, useRef } from 'react'
 
-import { SupportedChainId } from '../constants/chains'
-import { DAI_OPTIMISM, USDC_ARBITRUM, USDC_MAINNET, USDC_POLYGON } from '../constants/tokens'
+import { SupportedChainId } from '../custom/constants/chains'
+import { DAI_OPTIMISM, USDC_ARBITRUM, USDC_MAINNET, USDC_POLYGON } from '../custom/constants/tokens'
 import { useBestV2Trade } from './useBestV2Trade'
-import { useClientSideV3Trade } from './useClientSideV3Trade'
+import { useClientSideV3Trade } from '../custom/hooks/useClientSideV3Trade'
 
 // Stablecoin amounts used when calculating spot price for a given currency.
 // The amount is large enough to filter low liquidity pairs.

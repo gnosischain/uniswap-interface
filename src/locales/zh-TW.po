@@ -244,11 +244,11 @@ msgstr "批準中"
 msgid "Approving {0}"
 msgstr "批準 {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Arbitrum橋"
 
@@ -316,7 +316,7 @@ msgstr "封鎖地址"
 msgid "Blocked address"
 msgstr "已屏蔽地址"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "橋"
 
@@ -625,7 +625,7 @@ msgstr "存入 UNI-V2 流動池代幣"
 msgid "Deposit liquidity"
 msgstr "存入流動資金"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "將代幣存入 {label} 網絡。"
 
@@ -755,7 +755,7 @@ msgstr "由於您的錢包 gas 設置，估計值可能有差異"
 msgid "Estimated network fee"
 msgstr "預估網絡費用"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "全範圍倉位可能比集中倉位賺取更少的費用。在<0>此處
 msgid "Get support on Discord"
 msgstr "在 Discord 上尋求技術支持"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "幫助中心"
@@ -1177,7 +1177,7 @@ msgstr "只有在 {0} 區塊編號之前已自行委托或委托給另一個區�
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "糟糕！出現未知錯誤。請刷新頁面，或從其他瀏覽器或設備訪問。"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "樂觀橋"
 
@@ -1185,7 +1185,7 @@ msgstr "樂觀橋"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimism 處於測試階段，可能會遇到停機時間。Optimism 預計將在不久的將來停機升級網絡。在停機期間，您的倉位將不會產生費用，並且您將無法移除流動性。 <0>閱讀更多。</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Optimistic Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "請在下拉菜單或您的錢包中連接到支持的網絡。"
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "請輸入單詞“{confirmWord}”以啟用專家模式。"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Polygon 連橋"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "搜索名稱或粘貼地址"
 msgid "Select Pair"
 msgstr "選擇幣對"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "選擇網絡"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} 代幣"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} 代幣橋"
 

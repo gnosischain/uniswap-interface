@@ -244,11 +244,11 @@ msgstr "Одобравање"
 msgid "Approving {0}"
 msgstr "Одобравање {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Арбисцан"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Мост Арбитрум"
 
@@ -316,7 +316,7 @@ msgstr "Блокирана адреса"
 msgid "Blocked address"
 msgstr "Блокирана адреса"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Мост"
 
@@ -625,7 +625,7 @@ msgstr "Положите UNI-V2 LP токене"
 msgid "Deposit liquidity"
 msgstr "Ликвидност депозита"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Депонујте токене на мрежу {label}."
 
@@ -755,7 +755,7 @@ msgstr "Процена се може разликовати због подеш�
 msgid "Estimated network fee"
 msgstr "Процењена мрежна накнада"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Етхерсцан"
 
@@ -831,7 +831,7 @@ msgstr "Позиције пуног опсега могу зарадити ма�
 msgid "Get support on Discord"
 msgstr "Затражите подршку на Discord-у"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Центар за помоћ"
@@ -1177,7 +1177,7 @@ msgstr "Само УНИ гласови који су самостално или
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Упс! Дошло је до непознате грешке. Освежите страницу или је посетите из другог прегледача или уређаја."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Мост оптимизма"
 
@@ -1185,7 +1185,7 @@ msgstr "Мост оптимизма"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Оптимизам је у бета верзији и може доћи до застоја. Оптимизам очекује да планирано време застоја надогради мрежу у блиској будућности. Током застоја, ваша позиција неће зарадити накнаде и нећете моћи да уклоните ликвидност. <0>Прочитајте више.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Оптимистични Етхерсцан"
 
@@ -1234,11 +1234,11 @@ msgstr "Повежите се на подржану мрежу у падајућ
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Унесите реч „{confirmWord}“ да бисте омогућили експертни режим."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Полигон Бридге"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Полигонсцан"
 
@@ -1435,7 +1435,7 @@ msgstr "Претражите име или налепите адресу"
 msgid "Select Pair"
 msgstr "Изаберите Упари"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Изаберите мрежу"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} жетона"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} токен бридге"
 

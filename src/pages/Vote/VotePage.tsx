@@ -29,7 +29,7 @@ import {
   DEFAULT_AVERAGE_BLOCK_TIME_IN_SECS,
 } from '../../constants/governance'
 import { ZERO_ADDRESS } from '../../constants/misc'
-import { UNI } from '../../constants/tokens'
+import { UNI } from '../../custom/constants/tokens'
 import {
   useModalOpen,
   useToggleDelegateModal,
@@ -48,9 +48,9 @@ import {
 } from '../../state/governance/hooks'
 import { VoteOption } from '../../state/governance/types'
 import { useTokenBalance } from '../../state/wallet/hooks'
-import { ExternalLink, StyledInternalLink, ThemedText } from '../../theme'
+import { ExternalLink, StyledInternalLink, ThemedText } from '../../custom/theme'
 import { isAddress } from '../../utils'
-import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
+import { ExplorerDataType, getExplorerLink } from '../../custom/utils/getExplorerLink'
 import { ProposalStatus } from './styled'
 
 const PageWrapper = styled(AutoColumn)`

@@ -15,7 +15,7 @@ import {
 } from '../../state/application/hooks'
 import { ApplicationModal } from '../../state/application/reducer'
 import { useUserHasAvailableClaim, useUserUnclaimedAmount } from '../../state/claim/hooks'
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { ButtonPrimary } from '../Button'
 import { AutoColumn } from '../Column'
 import { CardBGImage, CardNoise } from '../earn/styled'

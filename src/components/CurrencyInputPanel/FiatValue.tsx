@@ -6,7 +6,7 @@ import HoverInlineText from 'components/HoverInlineText'
 import { useMemo } from 'react'
 
 import useTheme from '../../hooks/useTheme'
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 import { warningSeverity } from '../../utils/prices'
 import { MouseoverTooltip } from '../Tooltip'
 

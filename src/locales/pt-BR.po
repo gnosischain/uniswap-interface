@@ -244,11 +244,11 @@ msgstr "Aprovando"
 msgid "Approving {0}"
 msgstr "Aprovando {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Ponte Arbitrum"
 
@@ -316,7 +316,7 @@ msgstr "Endereço bloqueado"
 msgid "Blocked address"
 msgstr "Endereço bloqueado"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Ponte"
 
@@ -625,7 +625,7 @@ msgstr "Depositar tokens LP UNI-V2"
 msgid "Deposit liquidity"
 msgstr "Liquidez do depósito"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Depositar tokens na rede {label}"
 
@@ -755,7 +755,7 @@ msgstr "A estimativa pode ser diferente devido às configurações de gás da ca
 msgid "Estimated network fee"
 msgstr "Taxa de rede estimada"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "As posições completas podem render menos taxas do que as posições co
 msgid "Get support on Discord"
 msgstr "Obtenha suporte em caso de Discordância"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Centro de ajuda"
@@ -1177,7 +1177,7 @@ msgstr "Somente votos de UNI autodelegados ou delegados para outro endereço ant
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Opa! Ocorreu um erro desconhecido. Atualize a página ou visite-a em outro navegador ou dispositivo."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Ponte do otimismo"
 
@@ -1185,7 +1185,7 @@ msgstr "Ponte do otimismo"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "O otimismo está em Beta e pode passar por um período de inatividade. O otimismo espera um tempo de inatividade planejado para atualizar a rede em um futuro próximo. Durante o tempo de inatividade, sua posição não receberá taxas e você não poderá remover a liquidez. <0>Leia mais.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Etherscan otimista"
 
@@ -1234,11 +1234,11 @@ msgstr "Conecte-se a uma rede suportada no menu suspenso ou em sua carteira."
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Digite a palavra \"{confirmWord}\" para habilitar o modo Expert."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Ponte Poligonal"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Pesquise o nome ou cole o endereço"
 msgid "Select Pair"
 msgstr "Selecione Par"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Selecione uma rede"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} tokens"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "Ponte {label}"
 

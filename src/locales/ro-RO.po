@@ -244,11 +244,11 @@ msgstr "Aprobare"
 msgid "Approving {0}"
 msgstr "Aprobare {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Podul Arbitrum"
 
@@ -316,7 +316,7 @@ msgstr "Adresă blocată"
 msgid "Blocked address"
 msgstr "Adresă blocată"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Pod"
 
@@ -625,7 +625,7 @@ msgstr "Depune Jetoane UNI-V2 LP"
 msgid "Deposit liquidity"
 msgstr "Lichiditate de depozit"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Depuneți jetoane în rețeaua {label}"
 
@@ -755,7 +755,7 @@ msgstr "Estimarea poate diferi din cauza setărilor de gaz pentru portofel"
 msgid "Estimated network fee"
 msgstr "Taxa de rețea estimată"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Pozițiile din gama completă pot câștiga mai puține comisioane decâ
 msgid "Get support on Discord"
 msgstr "Obține asistență pentru Discord"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Centru de ajutor"
@@ -1177,7 +1177,7 @@ msgstr "Doar voturile UNI care au fost auto-delegate sau delegate la o altă adr
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Ups! A avut loc o eroare necunoscută. Reîmprospătează pagina, sau vizitează un alt browser sau dispozitiv."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Podul optimismului"
 
@@ -1185,7 +1185,7 @@ msgstr "Podul optimismului"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimismul este în versiune beta și poate avea timp de nefuncționare. Optimism se așteaptă ca timpul de nefuncționare planificat să actualizeze rețeaua în viitorul apropiat. În timpul nefuncționării, poziția dvs. nu va câștiga comisioane și nu veți putea elimina lichiditatea. <0>Citește mai mult.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Etherscan optimist"
 
@@ -1234,11 +1234,11 @@ msgstr "Vă rugăm să vă conectați la o rețea acceptată în meniul drop-dow
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Te rugăm să introduci cuvântul \"{confirmWord}\" pentru a activa modul expert."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Podul poligonului"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Caută nume sau lipește adresa"
 msgid "Select Pair"
 msgstr "Selectați Pair"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Selectați o rețea"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} jetoane"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} token bridge"
 

@@ -8,7 +8,7 @@ import JSBI from 'jsbi'
 import { useMultipleContractSingleData } from 'lib/hooks/multicall'
 import { useMemo } from 'react'
 
-import { V3_CORE_FACTORY_ADDRESSES } from '../constants/addresses'
+import { V3_CORE_FACTORY_ADDRESSES } from '../custom/constants/addresses'
 import { IUniswapV3PoolStateInterface } from '../types/v3/IUniswapV3PoolState'
 
 const POOL_STATE_INTERFACE = new Interface(IUniswapV3PoolStateABI) as IUniswapV3PoolStateInterface

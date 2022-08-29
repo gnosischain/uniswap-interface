@@ -9,8 +9,8 @@ import JSBI from 'jsbi'
 import { useSingleCallResult } from 'lib/hooks/multicall'
 import { useMemo, useState } from 'react'
 
-import { SWAP_ROUTER_ADDRESSES, V3_ROUTER_ADDRESS } from '../constants/addresses'
-import { DAI, UNI, USDC_MAINNET } from '../constants/tokens'
+import { SWAP_ROUTER_ADDRESSES, V3_ROUTER_ADDRESS } from '../custom/constants/addresses'
+import { DAI, UNI, USDC_MAINNET } from '../custom/constants/tokens'
 import { useEIP2612Contract } from './useContract'
 import useIsArgentWallet from './useIsArgentWallet'
 

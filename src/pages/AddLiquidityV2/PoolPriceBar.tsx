@@ -8,7 +8,7 @@ import { AutoColumn } from '../../components/Column'
 import { AutoRow } from '../../components/Row'
 import { ONE_BIPS } from '../../constants/misc'
 import { Field } from '../../state/mint/actions'
-import { ThemedText } from '../../theme'
+import { ThemedText } from '../../custom/theme'
 
 export function PoolPriceBar({
   currencies,

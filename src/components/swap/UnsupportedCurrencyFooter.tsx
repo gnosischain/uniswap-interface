@@ -12,7 +12,7 @@ import styled from 'styled-components/macro'
 import { CloseIcon, ExternalLink, ThemedText, Z_INDEX } from 'theme'
 
 import { useUnsupportedTokens } from '../../hooks/Tokens'
-import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
+import { ExplorerDataType, getExplorerLink } from '../../custom/utils/getExplorerLink'
 
 const DetailsFooter = styled.div<{ show: boolean }>`
   padding-top: calc(16px + 2rem);

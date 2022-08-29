@@ -6,8 +6,8 @@ import { ReactNode, useCallback, useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components/macro'
 
 import useENS from '../../hooks/useENS'
-import { ExternalLink, ThemedText } from '../../theme'
-import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
+import { ExternalLink, ThemedText } from '../../custom/theme'
+import { ExplorerDataType, getExplorerLink } from '../../custom/utils/getExplorerLink'
 import { AutoColumn } from '../Column'
 import { RowBetween } from '../Row'
 

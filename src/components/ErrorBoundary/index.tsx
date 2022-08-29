@@ -4,7 +4,7 @@ import React, { ErrorInfo } from 'react'
 import styled from 'styled-components/macro'
 
 import store, { AppState } from '../../state'
-import { ExternalLink, ThemedText } from '../../theme'
+import { ExternalLink, ThemedText } from '../../custom/theme'
 import { userAgent } from '../../utils/userAgent'
 import { AutoColumn } from '../Column'
 import { AutoRow } from '../Row'

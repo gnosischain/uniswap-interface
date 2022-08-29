@@ -10,7 +10,7 @@ import { useAppDispatch, useAppSelector } from 'state/hooks'
 import { InterfaceTrade, TradeState } from 'state/routing/types'
 import { useUserSlippageToleranceWithDefault } from 'state/user/hooks'
 
-import { TOKEN_SHORTHANDS } from '../../constants/tokens'
+import { TOKEN_SHORTHANDS } from '../../custom/constants/tokens'
 import { useCurrency } from '../../hooks/Tokens'
 import useENS from '../../hooks/useENS'
 import useParsedQueryString from '../../hooks/useParsedQueryString'

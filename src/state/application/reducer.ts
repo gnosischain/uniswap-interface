@@ -1,7 +1,7 @@
 import { createSlice, nanoid } from '@reduxjs/toolkit'
 import { DEFAULT_TXN_DISMISS_MS } from 'constants/misc'
 
-import { SupportedChainId } from '../../constants/chains'
+import { SupportedChainId } from '../../custom/constants/chains'
 
 export type PopupContent =
   | {

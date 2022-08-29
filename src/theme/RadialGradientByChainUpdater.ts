@@ -2,7 +2,7 @@ import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useEffect } from 'react'
 import { useDarkModeManager } from 'state/user/hooks'
 
-import { SupportedChainId } from '../constants/chains'
+import { SupportedChainId } from '../custom/constants/chains'
 
 const initialStyles = {
   width: '200vw',

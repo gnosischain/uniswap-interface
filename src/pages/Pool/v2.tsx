@@ -1,6 +1,6 @@
 import { Trans } from '@lingui/macro'
 import { Pair } from '@uniswap/v2-sdk'
-import { UNSUPPORTED_V2POOL_CHAIN_IDS } from 'constants/chains'
+import { UNSUPPORTED_V2POOL_CHAIN_IDS } from 'custom/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import JSBI from 'jsbi'
 import { useContext, useMemo } from 'react'
@@ -23,7 +23,7 @@ import { useV2Pairs } from '../../hooks/useV2Pairs'
 import { useStakingInfo } from '../../state/stake/hooks'
 import { toV2LiquidityToken, useTrackedTokenPairs } from '../../state/user/hooks'
 import { useTokenBalancesWithLoadingIndicator } from '../../state/wallet/hooks'
-import { ExternalLink, HideSmall, ThemedText } from '../../theme'
+import { ExternalLink, HideSmall, ThemedText } from '../../custom/theme'
 
 const PageWrapper = styled(AutoColumn)`
   max-width: 640px;

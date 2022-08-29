@@ -244,11 +244,11 @@ msgstr "อนุมัติ"
 msgid "Approving {0}"
 msgstr "กำลังอนุมัติ {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "สะพานอนุญาโตตุลาการ"
 
@@ -316,7 +316,7 @@ msgstr "ที่อยู่ที่ถูกบล็อก"
 msgid "Blocked address"
 msgstr "ที่อยู่ที่ถูกบล็อก"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "สะพาน"
 
@@ -625,7 +625,7 @@ msgstr "ฝากโทเค็น LP ของ UNI-V2"
 msgid "Deposit liquidity"
 msgstr "สภาพคล่องในการฝาก"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "ฝากโทเค็นไปยังเครือข่าย {label}"
 
@@ -755,7 +755,7 @@ msgstr "ค่าประมาณอาจแตกต่างกันเน
 msgid "Estimated network fee"
 msgstr "ค่าธรรมเนียมเครือข่ายโดยประมาณ"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "อีเธอร์สแกน"
 
@@ -831,7 +831,7 @@ msgstr "ตำแหน่งเต็มช่วงอาจได้รับ
 msgid "Get support on Discord"
 msgstr "รับการสนับสนุนบน Discord"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "ศูนย์ช่วยเหลือ"
@@ -1177,7 +1177,7 @@ msgstr "เฉพาะคะแนนโหวตของ UNI ที่มอ�
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "อ๊ะ! เกิดข้อผิดพลาดที่ไม่รู้จัก โปรดรีเฟรชหน้า หรือเยี่ยมชมจากเบราว์เซอร์หรืออุปกรณ์อื่น"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "สะพานมองในแง่ดี"
 
@@ -1185,7 +1185,7 @@ msgstr "สะพานมองในแง่ดี"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "การมองในแง่ดีอยู่ในช่วงเบต้าและอาจประสบปัญหาการหยุดทำงาน การมองในแง่ดีคาดว่าการหยุดทำงานตามแผนจะอัพเกรดเครือข่ายในอนาคตอันใกล้ ในช่วงหยุดทำงาน โพซิชั่นของคุณจะไม่ได้รับค่าธรรมเนียมและคุณจะไม่สามารถลบสภาพคล่องได้ <0>อ่านเพิ่มเติม.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "มองโลกในแง่ดี Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "โปรดเชื่อมต่อกับเครือข่า
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "โปรดพิมพ์คำว่า \"{confirmWord}\" เพื่อเปิดใช้งานโหมดผู้เชี่ยวชาญ"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "สะพานรูปหลายเหลี่ยม"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "รูปหลายเหลี่ยม"
 
@@ -1435,7 +1435,7 @@ msgstr "ค้นหาชื่อหรือวางที่อยู่"
 msgid "Select Pair"
 msgstr "เลือกคู่"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "เลือกเครือข่าย"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} โทเค็น"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "สะพานโทเค็น {label}"
 

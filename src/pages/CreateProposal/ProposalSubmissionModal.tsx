@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom'
 import { Text } from 'rebass'
 import { ThemeContext } from 'styled-components/macro'
 import { ExternalLink, ThemedText } from 'theme'
-import { ExplorerDataType, getExplorerLink } from 'utils/getExplorerLink'
+import { ExplorerDataType, getExplorerLink } from 'custom/utils/getExplorerLink'
 
 export const ProposalSubmissionModal = ({
   isOpen,

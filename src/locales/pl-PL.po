@@ -244,11 +244,11 @@ msgstr "Zatwierdzanie"
 msgid "Approving {0}"
 msgstr "Zatwierdzanie {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Most Arbitrum"
 
@@ -316,7 +316,7 @@ msgstr "Zablokowany adres"
 msgid "Blocked address"
 msgstr "Zablokowany adres"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Most"
 
@@ -625,7 +625,7 @@ msgstr "Depozyt UNI-V2 LP Tokens"
 msgid "Deposit liquidity"
 msgstr "Depozyt płynności"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Wpłacaj tokeny do sieci {label}"
 
@@ -755,7 +755,7 @@ msgstr "Oszacowanie może się różnić ze względu na ustawienia gazu w portfe
 msgid "Estimated network fee"
 msgstr "Szacowana opłata sieciowa"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Pozycje z pełnym zakresem mogą generować mniejsze opłaty niż pozycj
 msgid "Get support on Discord"
 msgstr "Uzyskaj wsparcie na Discord"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Centrum pomocy"
@@ -1177,7 +1177,7 @@ msgstr "Do głosowania kwalifikują się tylko głosy UNI, które zostały samod
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Ups! Wystąpił nieznany błąd. Odśwież stronę lub odwiedź z innej przeglądarki lub urządzenia."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Most Optymizmu"
 
@@ -1185,7 +1185,7 @@ msgstr "Most Optymizmu"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optymizm jest w fazie beta i może wystąpić przestój. Optymizm spodziewa się, że planowane przestoje w niedalekiej przyszłości zmodernizują sieć. W czasie przestoju Twoja pozycja nie będzie generować opłat i nie będziesz w stanie usunąć płynności. <0>Czytaj więcej.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Optymistyczny Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "Połącz się z obsługiwaną siecią w menu rozwijanym lub w portfelu."
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Proszę wpisać słowo \"{confirmWord}\", aby włączyć tryb eksperta."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Most wielokątny"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Skanowanie wielokątów"
 
@@ -1435,7 +1435,7 @@ msgstr "Wyszukaj nazwę lub wklej adres"
 msgid "Select Pair"
 msgstr "Wybierz parę"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Wybierz sieć"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} tokenów"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} mostek tokenów"
 

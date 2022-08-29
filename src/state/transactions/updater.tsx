@@ -1,10 +1,10 @@
 import { DEFAULT_TXN_DISMISS_MS, L2_TXN_DISMISS_MS } from 'constants/misc'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import LibUpdater from 'lib/hooks/transactions/updater'
+import LibUpdater from 'custom/lib/hooks/transactions/updater'
 import { useCallback, useMemo } from 'react'
 import { useAppDispatch, useAppSelector } from 'state/hooks'
 
-import { L2_CHAIN_IDS } from '../../constants/chains'
+import { L2_CHAIN_IDS } from '../../custom/constants/chains'
 import { useAddPopup } from '../application/hooks'
 import { checkedTransaction, finalizeTransaction } from './reducer'
 

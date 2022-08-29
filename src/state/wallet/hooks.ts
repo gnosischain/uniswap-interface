@@ -4,7 +4,7 @@ import JSBI from 'jsbi'
 import { useTokenBalance, useTokenBalancesWithLoadingIndicator } from 'lib/hooks/useCurrencyBalance'
 import { useMemo } from 'react'
 
-import { UNI } from '../../constants/tokens'
+import { UNI } from '../../custom/constants/tokens'
 import { useAllTokens } from '../../hooks/Tokens'
 import { useUserUnclaimedAmount } from '../claim/hooks'
 import { useTotalUniEarned } from '../stake/hooks'

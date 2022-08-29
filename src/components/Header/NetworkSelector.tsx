@@ -1,6 +1,6 @@
 import { Trans } from '@lingui/macro'
-import { CHAIN_INFO } from 'constants/chainInfo'
-import { CHAIN_IDS_TO_NAMES, SupportedChainId } from 'constants/chains'
+import { CHAIN_INFO } from 'custom/constants/chainInfo'
+import { CHAIN_IDS_TO_NAMES, SupportedChainId } from 'custom/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useOnClickOutside } from 'hooks/useOnClickOutside'
 import useParsedQueryString from 'hooks/useParsedQueryString'
@@ -16,7 +16,7 @@ import { ExternalLink, MEDIA_WIDTHS } from 'theme'
 import { replaceURLParam } from 'utils/routes'
 
 import { useAppDispatch } from '../../state/hooks'
-import { switchToNetwork } from '../../utils/switchToNetwork'
+import { switchToNetwork } from '../../custom/utils/switchToNetwork'
 
 const ActiveRowLinkList = styled.div`
   display: flex;

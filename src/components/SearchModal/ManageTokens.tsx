@@ -13,7 +13,7 @@ import { ButtonText, ExternalLink, ExternalLinkIcon, ThemedText, TrashIcon } fro
 import { isAddress } from 'utils'
 
 import useTheme from '../../hooks/useTheme'
-import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
+import { ExplorerDataType, getExplorerLink } from '../../custom/utils/getExplorerLink'
 import { CurrencyModalView } from './CurrencySearchModal'
 import ImportRow from './ImportRow'
 import { PaddedColumn, SearchInput, Separator } from './styleds'

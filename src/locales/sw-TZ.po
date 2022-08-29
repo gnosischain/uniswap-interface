@@ -244,11 +244,11 @@ msgstr "Kusibitisha"
 msgid "Approving {0}"
 msgstr "Kusibitisha {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Daraja la Arbitrum"
 
@@ -316,7 +316,7 @@ msgstr "Anwani Iliyozuiwa"
 msgid "Blocked address"
 msgstr "Anwani iliyozuiliwa"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Daraja"
 
@@ -625,7 +625,7 @@ msgstr "Amana UNI-V2 LP Ishara"
 msgid "Deposit liquidity"
 msgstr "Amana ukwasi"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Weka alama kwenye mtandao {label}"
 
@@ -755,7 +755,7 @@ msgstr "Kadirio linaweza kutofautiana kwa sababu ya mipangilio ya gesi ya mkoba 
 msgid "Estimated network fee"
 msgstr "Kadirio la ada ya mtandao"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Nafasi kamili zinaweza kupata ada kidogo kuliko nafasi zilizojilimbikizi
 msgid "Get support on Discord"
 msgstr "Pata usaidizi juu ya Ugomvi"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Kituo cha Usaidizi"
@@ -1177,7 +1177,7 @@ msgstr "Kura tu za UNI ambazo zilikabidhiwa kibinafsi au kupelekwa kwa anwani ny
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Lo! Hitilafu isiyojulikana ilitokea. Tafadhali onyesha upya ukurasa, au tembelea kutoka kwa kivinjari kingine au kifaa."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Daraja la Matumaini"
 
@@ -1185,7 +1185,7 @@ msgstr "Daraja la Matumaini"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Matumaini iko kwenye Beta na inaweza kukumbwa na wakati wa kutokuwepo. Matumaini yanatarajia muda wa chini uliopangwa ili kuboresha mtandao katika siku za usoni. Wakati wa mapumziko, nafasi yako haitapata ada na hutaweza kuondoa ukwasi. <0>Soma zaidi.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Matarajio ya Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "Tafadhali unganisha kwa mtandao unaotumika katika menyu kunjuzi au kweny
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Tafadhali andika neno \"{confirmWord}\" kuwezesha hali ya mtaalam."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Daraja la Polygon"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscan"
 
@@ -1435,7 +1435,7 @@ msgstr "Tafuta jina au ubandike anwani"
 msgid "Select Pair"
 msgstr "Chagua Jozi"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Chagua mtandao"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "Ishara {activeTokensOnThisChain}"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} daraja la ishara"
 

@@ -244,11 +244,11 @@ msgstr "Godkender"
 msgid "Approving {0}"
 msgstr "Godkender {0}"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbiscan"
 msgstr "Arbiscan"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Arbitrum Bridge"
 msgstr "Arbitrum Bridge"
 
@@ -316,7 +316,7 @@ msgstr "Blokeret adresse"
 msgid "Blocked address"
 msgstr "Blokeret adresse"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Bridge"
 msgstr "Bro"
 
@@ -625,7 +625,7 @@ msgstr "Indbetal UNI-V2 LP-tokens"
 msgid "Deposit liquidity"
 msgstr "Indbetalingslikviditet"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "Deposit tokens to the {label} network."
 msgstr "Indbetal tokens til {label} netværket."
 
@@ -755,7 +755,7 @@ msgstr "Estimatet kan variere på grund af dine pengepung-gasindstillinger"
 msgid "Estimated network fee"
 msgstr "Estimeret netværksgebyr"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Etherscan"
 msgstr "Etherscan"
 
@@ -831,7 +831,7 @@ msgstr "Fuldtidsstillinger kan tjene mindre gebyrer end koncentrerede positioner
 msgid "Get support on Discord"
 msgstr "Få support på Discord"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 #: src/components/Menu/index.tsx
 msgid "Help Center"
 msgstr "Hjælpecenter"
@@ -1177,7 +1177,7 @@ msgstr "Kun UNI-stemmer, der blev selvdelegeret eller delegeret til en anden adr
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
 msgstr "Ups! Der opstod en ukendt fejl. Opdater siden, eller besøg fra en anden browser eller enhed."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimism Bridge"
 msgstr "Optimisme bro"
 
@@ -1185,7 +1185,7 @@ msgstr "Optimisme bro"
 msgid "Optimism is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
 msgstr "Optimisme er i Beta og kan opleve nedetid. Optimism forventer planlagt nedetid for at opgradere netværket i den nærmeste fremtid. Under nedetid vil din position ikke tjene gebyrer, og du vil ikke være i stand til at fjerne likviditet. <0>Læs mere.</0>"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Optimistic Etherscan"
 msgstr "Optimistisk Etherscan"
 
@@ -1234,11 +1234,11 @@ msgstr "Opret forbindelse til et understøttet netværk i rullemenuen eller i di
 msgid "Please type the word \"{confirmWord}\" to enable expert mode."
 msgstr "Skriv ordet \"{confirmWord}\" for at aktivere eksperttilstand."
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygon Bridge"
 msgstr "Polygon bro"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Polygonscan"
 msgstr "Polygonscanning"
 
@@ -1435,7 +1435,7 @@ msgstr "Søg navn eller indsæt adresse"
 msgid "Select Pair"
 msgstr "Vælg Par"
 
-#: src/components/Header/NetworkSelector.tsx
+#: src/custom/components/Header/NetworkSelector.tsx
 msgid "Select a network"
 msgstr "Vælg et netværk"
 
@@ -2443,7 +2443,7 @@ msgstr "{USER_AMOUNT} UNI"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} poletter"
 
-#: src/components/NetworkAlert/NetworkAlert.tsx
+#: src/custom/components/NetworkAlert/NetworkAlert.tsx
 msgid "{label} token bridge"
 msgstr "{label} token bridge"
 

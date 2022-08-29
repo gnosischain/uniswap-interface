@@ -1,7 +1,7 @@
 import { Trans } from '@lingui/macro'
 import { ButtonGray, ButtonPrimary, ButtonText } from 'components/Button'
 import { AutoColumn } from 'components/Column'
-import { FlyoutAlignment, NewMenu } from 'components/Menu'
+import { FlyoutAlignment, NewMenu } from 'custom/components/Menu'
 import { SwapPoolTabs } from 'components/NavigationTabs'
 import PositionList from 'components/PositionList'
 import { RowBetween, RowFixed } from 'components/Row'
@@ -17,7 +17,7 @@ import styled, { ThemeContext } from 'styled-components/macro'
 import { HideSmall, ThemedText } from 'theme'
 import { PositionDetails } from 'types/position'
 
-import { V2_FACTORY_ADDRESSES } from '../../constants/addresses'
+import { V2_FACTORY_ADDRESSES } from '../../custom/constants/addresses'
 import CTACards from './CTACards'
 import { LoadingRows } from './styleds'
 

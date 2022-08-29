@@ -6,7 +6,7 @@ import sortByListPriority from 'utils/listSort'
 import BROKEN_LIST from '../../constants/tokenLists/broken.tokenlist.json'
 import UNSUPPORTED_TOKEN_LIST from '../../constants/tokenLists/unsupported.tokenlist.json'
 import { AppState } from '../index'
-import { UNSUPPORTED_LIST_URLS } from './../../constants/lists'
+import { UNSUPPORTED_LIST_URLS } from './../../custom/constants/lists'
 
 export type TokenAddressMap = ChainTokenMap
 

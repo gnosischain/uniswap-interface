@@ -1,12 +1,12 @@
 import { Trans } from '@lingui/macro'
 import { AutoColumn } from 'components/Column'
-import { CHAIN_INFO } from 'constants/chainInfo'
-import { SupportedChainId } from 'constants/chains'
+import { CHAIN_INFO } from 'custom/constants/chainInfo'
+import { SupportedChainId } from 'custom/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import styled from 'styled-components/macro'
 import { ThemedText } from 'theme'
 
-import { ExternalLink } from '../../theme'
+import { ExternalLink } from '../../custom/theme'
 
 const CTASection = styled.section`
   display: grid;
